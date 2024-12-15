@@ -68,7 +68,7 @@ function showMessage() {
 
     if (currentMessageIndex === messages.length - 1) {
         nextButton.onclick = () => {
-            window.location.href = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ';
+            window.location.href = 'https://youtu.be/bGc5lGxzMQw?si=LZg67_ufsDd-HAT3';
         };
     } else {
         nextButton.onclick = () => {
